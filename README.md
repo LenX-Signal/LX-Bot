@@ -1,3 +1,3 @@
 # LenX-Signal-
 
-<a href="https://lenx-signal.github.io/LenX-Signal/">link</a>
+<a href="https://lenx-signal.github.io/LX-Bot/">link</a>
